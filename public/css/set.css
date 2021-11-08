@@ -1,0 +1,15 @@
+.row.col, div.col-10, div.col-2{
+    padding:0px !important;
+    margin:0px !important;
+}
+#set_list{
+    height:950px;
+}
+
+#event_button{
+    height:70px;
+}
+
+#event_list{
+    background-color: black;
+}

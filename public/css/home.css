@@ -5,7 +5,7 @@ div.col-6, div.col-3, div.col-2, div#camera1_information.col, div#camera2_inform
 #map {
     width:100%;
     height:70%;
-    background-color:yellow;
+   
 }
 
 #event_list {
@@ -26,6 +26,6 @@ div.col-6, div.col-3, div.col-2, div#camera1_information.col, div#camera2_inform
 
 #camera_list{
     height:30%;
-    background-color:blue;
+   
     width:100%;
 }

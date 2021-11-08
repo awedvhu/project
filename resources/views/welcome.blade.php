@@ -2,7 +2,7 @@
 <html lang="zh-TW">
 
 <head>
-  <title>home</title>
+  <title>首頁</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{asset('css/home.css') }}" />
@@ -73,7 +73,7 @@
 
       <div class="col-6">
         <div id="map">
-
+          <img src="{{asset('photo/3D主顧.png') }}" class="img-fluid" />
         </div>
         <div class="row row-cols-4" id="camera_list">
           <div class="col" id="camera1_information">
@@ -126,7 +126,7 @@
     </div>
   </div>
 
-  </div>
+  
 
 </body>
 
