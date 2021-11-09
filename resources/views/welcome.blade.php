@@ -37,10 +37,199 @@
           <div data-bs-toggle="modal" data-bs-target="#exampleModal">
             <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
               <div class="col" id="event_image">
-                <img src="{{asset('photo/download.jpg') }}" class="img-fluid" />
+                <img src="{{asset('photo/red.jpg') }}" class="img-fluid" />
               </div>
               <div class="col">
                 1
+              </div>
+              <div class="col">
+                主顧樓
+              </div>
+              <div class="col">
+                處理中
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br/>
+        <div id="event">
+          <div data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
+              <div class="col" id="event_image">
+                <img src="{{asset('photo/red.jpg') }}" class="img-fluid" />
+              </div>
+              <div class="col">
+                1
+              </div>
+              <div class="col">
+                主顧樓
+              </div>
+              <div class="col">
+                處理中
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br/>
+        <div id="event">
+          <div data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
+              <div class="col" id="event_image">
+                <img src="{{asset('photo/yellow.jpg') }}" class="img-fluid" />
+              </div>
+              <div class="col">
+                2
+              </div>
+              <div class="col">
+                主顧樓
+              </div>
+              <div class="col">
+                處理中
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br/>
+        <div id="event">
+          <div data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
+              <div class="col" id="event_image">
+                <img src="{{asset('photo/yellow.jpg') }}" class="img-fluid" />
+              </div>
+              <div class="col">
+                2
+              </div>
+              <div class="col">
+                主顧樓
+              </div>
+              <div class="col">
+                處理中
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br/>
+        <div id="event">
+          <div data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
+              <div class="col" id="event_image">
+                <img src="{{asset('photo/green.jpg') }}" class="img-fluid" />
+              </div>
+              <div class="col">
+                3
+              </div>
+              <div class="col">
+                主顧樓
+              </div>
+              <div class="col">
+                處理中
+              </div>
+            </div>
+          </div>
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  ...
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br/>
+        <div id="event">
+          <div data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <div class="row row-cols-4 d-flex align-items-center text-center" id="event_column">
+              <div class="col" id="event_image">
+                <img src="{{asset('photo/green.jpg') }}" class="img-fluid" />
+              </div>
+              <div class="col">
+                3
               </div>
               <div class="col">
                 主顧樓
@@ -73,52 +262,34 @@
 
       <div class="col-6">
         <div id="map">
-          <img src="{{asset('photo/3D主顧.png') }}" class="img-fluid" />
+        <img src="{{asset('photo/3D主顧.png') }}" class="img-fluid" />
         </div>
-        <div class="row row-cols-4" id="camera_list">
-          <div class="col" id="camera1_information">
-            1
-          </div>
-          <div class="col" id="camera2_information">
-            2
-          </div>
-          <div class="col" id="camera1_information">
-            3
-          </div>
-          <div class="col" id="camera2_information">
-            4
-          </div>
-        </div>
+       
 
 
       </div>
 
       <div class="col-3">
-        <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/embed/wrYF0HX7Kzc?autoplay=1" title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen id="camera_1"></iframe>
+        <div class="bg-secondary" style="height:300px;">
+          攝影機影像
         </div>
 
-        <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/embed/wrYF0HX7Kzc" title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
+        <div class="bg-secondary" style="height:300px;">
+          辨識中攝影機影像
         </div>
         <div id="event">
           <div class="row row-cols-1" id="event_column">
             <div class="col" id="video_data">
-              現場人數：
+              現場人數： 10
             </div>
             <div class="col" id="video_data">
-              限制人數：
+              限制人數： 20
             </div>
             <div class="col" id="video_data">
-              攝影機編號：
+              攝影機編號：1
             </div>
             <div class="col" id="video_data">
-              位置：
+              位置：主顧樓
             </div>
           </div>
         </div>
